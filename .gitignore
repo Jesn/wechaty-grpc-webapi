@@ -342,4 +342,4 @@ ASALocalRun/
 # BeatPulse healthcheck temp database
 healthchecksdb
 
-**/src/wechaty-grpc-webapi/.vs/**
+**/src/wechaty-grpc-webapi/.vs
